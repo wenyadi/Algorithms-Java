@@ -1,4 +1,4 @@
-# Algorithms-Java
+# Sort Algorithms
   - Sort Algorithms
     1. quick sort
     2. merge sort
