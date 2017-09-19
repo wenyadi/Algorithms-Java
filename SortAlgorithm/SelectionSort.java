@@ -3,11 +3,7 @@ package com.codeReview.SortAlgorithm;
 
 import java.util.Arrays;
 
-/**
- * Created by yadiwen on 2017/6/3.
- */
-
-//外层看需要 run 多少轮，内层在没有排好序的元素中找最小的。time = O(n^2)
+// Time = O(n^2)
 public class SelectionSort {
     public int[] selectionSort(int[] array){
         if (array == null || array.length <= 1) {
