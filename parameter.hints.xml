@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.laioffer.class1.QuickSort.quicksort(low,high)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
