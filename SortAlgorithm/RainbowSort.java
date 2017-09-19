@@ -2,9 +2,6 @@ package com.codeReview.SortAlgorithm;
 
 import java.util.Arrays;
 
-/**
- * Created by yadiwen on 2017/6/6.
- */
 public class RainbowSort {
     public static void main(String[] args) {
         RainbowSort solution = new RainbowSort();
