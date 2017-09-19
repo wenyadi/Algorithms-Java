@@ -1,9 +1,5 @@
 package com.codeReview.SortAlgorithm;
 
-/**
- * Created by yadiwen on 2017/6/6.
- */
-
 public class QuickSort {
     public int[] quickSort(int[] array) {
         if (array == null) {
